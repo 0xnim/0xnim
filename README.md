@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and Solidity**
 
-- 👨‍💻 My portfolio is at <a herf="solo.to/nim" target="blank">solo.to/nim</a>
+- 👨‍💻 My portfolio is at (https://solo.to/nim "solo.to/nim")
 
 - ⚡ Fun fact **I think I am funny**
 
