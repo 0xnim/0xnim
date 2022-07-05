@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ and Solidity**
 
-- 👨‍💻 My more links are at [solo.to/nim](https://solo.to/nim "solo.to/nim")
+- 👨‍💻 More of my links are at [solo.to/nim](https://solo.to/nim "solo.to/nim")
 
 - ⚡ Fun fact **I think I am funny**
 
