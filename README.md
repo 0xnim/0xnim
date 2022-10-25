@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nimq___" target="blank"><img src="https://img.shields.io/twitter/follow/nimq___?logo=twitter&style=for-the-badge" alt="nimq___" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and Solidity**
+- 🌱 I’m currently learning **Astro and Solidity**
 
 - 👨‍💻 More of my links are at [solo.to/nim](https://solo.to/nim "solo.to/nim")
 
