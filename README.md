@@ -38,10 +38,7 @@
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 
 ### Tools I Use 🔧🔨
-![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
-![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
