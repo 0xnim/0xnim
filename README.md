@@ -38,14 +38,3 @@
 ### Tools I Use 🔧🔨
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-[![Nim1com's github activity graph](https://activity-graph.herokuapp.com/graph?username=nim1com&theme=xcode)](https://github.com/nim1com) 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/0xnim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0xnim" /></a></p><br><br>
-
-![Nim1com's GitHub stats](https://github-readme-stats.vercel.app/api?username=nim1com&show_icons=true&theme=radical alt="nim1com")
-
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nim1com&show_icons=true&locale=en&layout=compact" alt="nim1com" /></p>
- 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nim1com" alt="nim1com_stats"/>
