@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b30acb20e6b1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/0xnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="0xnim" height="30" width="40" /></a>
