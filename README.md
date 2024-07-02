@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nim1com" alt="nim1com" /></a> </p>
 
-- 🌱 I’m currently learning **C#.**
+- 🌱 I’m currently learning **Rust.**
 
 - 👨‍💻 More of my links are available at [solo.to/nim](solo.to/nim)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **Microsoft is slow.**
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b30acb20e6b1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
