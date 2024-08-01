@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A casual hobby dev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nim1com&label=Profile%20views&color=0e75b6&style=flat" alt="nim1com" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnim&label=Profile%20views&color=0e75b6&style=flat" alt="0xnim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nim1com" alt="nim1com" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xnim" alt="0xnim" /></a> </p>
 
 - 🌱 I’m currently learning **Rust.**
 
