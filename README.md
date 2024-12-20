@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnim&label=Profile%20views&color=0e75b6&style=flat" alt="0xnim" /> </p>
 
+Working on [Harbr](harbr.dev)
+
 ```mermaid
 timeline
 title My Journey
