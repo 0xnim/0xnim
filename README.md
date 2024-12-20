@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnim&label=Profile%20views&color=0e75b6&style=flat" alt="0xnim" /> </p>
 
-Working on [Harbr](harbr.dev)
+Working on [Harbr](https://harbr.dev)
 
 ```mermaid
 timeline
@@ -23,7 +23,7 @@ age of 16 : Assembly
 
 - 🌱 I’m currently learning **ASM.** 🥲
 
-- 👨‍💻 More of my links are available at [solo.to/nim](solo.to/nim)
+- 👨‍💻 More of my links are available at [solo.to/nim](https://solo.to/nim)
 
 - ⚡ Fun fact **Microsoft is slow.**
 
