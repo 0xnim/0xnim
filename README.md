@@ -12,6 +12,6 @@ did shit
 
 - 👨‍💻 More of my links are available at [solo.to/nim](https://solo.to/nim)
 
-- ⚡ Fun fact **Microsoft is slow.**
+- ⚡ Fun fact **Microslop is slow.**
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b30acb20e6b1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
