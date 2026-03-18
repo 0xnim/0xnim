@@ -3,20 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnim&label=Profile%20views&color=0e75b6&style=flat" alt="0xnim" /> </p>
 
-Working on [Harbr](https://harbr.dev)
-
-```mermaid
-timeline
-title My Journey
-age of 9 : Javascript
-: C++(Arduino)
-age of 10 : C#
-age of 11 : HTML
-: CSS
-: Typescript
-age of 14 : Rust
-age of 16 : Assembly
-```
+did shit
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xnim" alt="0xnim" /></a> </p>
