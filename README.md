@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xnim&label=Profile%20views&color=0e75b6&style=flat" alt="0xnim" /> </p>
 
-did shit
+did shit, gone for while
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xnim" alt="0xnim" /></a> </p>
